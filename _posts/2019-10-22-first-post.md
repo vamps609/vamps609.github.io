@@ -1,7 +1,7 @@
 ---
 title: "4넴"
 date: 2019-10-22 08:26:28 -0400
-categories: 프리코네 1019 클랜전
+categories: priconne_1019_clan
 ---
 
 
