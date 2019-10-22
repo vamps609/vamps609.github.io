@@ -3,7 +3,7 @@ title: "Welcome to Jekyll!"
 date: 2017-10-20 08:26:28 -0400
 categories: jekyll update
 ---
-
+---
 4넴	
 마코토 토모 수마티 지타 숫코로	
 108	마코토, 토모, 지타, 숱마키
@@ -20,3 +20,4 @@ categories: jekyll update
 9	숱마키
 2	지타
 1	마코토
+---
